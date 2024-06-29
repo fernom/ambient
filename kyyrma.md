@@ -1,11 +1,9 @@
-[forums.thedarkmod.com](https://forums.thedarkmod.com/index.php?/topic/16718-how-to-composing-ambient-tracks-for-dummies/)
+**SOURCE** [forums.thedarkmod.com](https://forums.thedarkmod.com/index.php?/topic/16718-how-to-composing-ambient-tracks-for-dummies/)
 
 How to: Composing Ambient Tracks for Dummies
 ============================================
 
 kyyrma
-
-14–18 minutos
 
 * * *
 
@@ -17,11 +15,11 @@ This tutorial shows you my method for creating ambient sound without any previou
 
 These are type of ambient tracks that have been created with my methods:
 
-[Haunted Ground](http://www.student.oulu.fi/~mkyyro/Haunted_ground_loop.ogg) [BROKEN LINK]
+[Haunted Ground](http://www.student.oulu.fi/~mkyyro/Haunted_ground_loop.ogg) [*BROKEN LINK*]
 
-[Home Asleep](http://www.student.oulu.fi/~mkyyro/Home_asleep.ogg) [BROKEN LINK]
+[Home Asleep](http://www.student.oulu.fi/~mkyyro/Home_asleep.ogg) [*BROKEN LINK*]
 
-[Creaking](http://www.student.oulu.fi/~mkyyro/Creaking.ogg) [BROKEN LINK]
+[Creaking](http://www.student.oulu.fi/~mkyyro/Creaking.ogg) [*BROKEN LINK*]
 
 **What tools do you need?**
 
@@ -42,8 +40,6 @@ With these simple tools and a bit of patience you too can produce your own ambie
 
 **II. Choosing the ambient base**
 
- [](#) Hide contents
-
 For our base ambient we want to pick a long recording that also has some melody or variance to it. This means that it is not just one long flat note, but that there is some variance in pitch and progression in the recording. For our tutorial we are creating audio for an outdoors area, so a recording of the wind howling could be a good starting point.
 
 1\. Go to [Freesound.org](http://freesound.org/)
@@ -63,8 +59,6 @@ For our cemetary example I picked the following [recording of an electric pole u
 Now is a good time to get comfortable with the basic controls of Audacity. In the top-left of the window you see the playback controls. You can use that at any time to play and preview the audio you are working on. Try playing a part of the sample you just downloaded.
 
 **III. Effects in Audacity**
-
- [](#) Hide contents
 
 Before we start applying effects to our base ambient track, let's take a quick look at the tools at our disposal. All the effects are found under the Effects menu in the top bar of Audacity.
 
@@ -90,8 +84,6 @@ Before we start applying effects to our base ambient track, let's take a quick l
 
 **IV. Applying effects on a track**
 
- [](#) Hide contents
-
 The sample we picked for the purposes of this tutorial is somewhat high-pitched, so let's go ahead and lower its frequency a bit.
 
 1\. Double-click on your track in Audacity to highlight it.
@@ -112,8 +104,6 @@ The track should now sound significantly slower then before. Just like in the la
 
 **V. Trimming, copying & pasting**
 
- [](#) Hide contents
-
 With all the slowing down our base ambient track has gotten way too long. The average ambient loop can be as long as just a minute, but naturally a longer track is less prone to being repeative.
 
 1\. To trim down your track, highlight about a minute worth of audio from the beginning and use Ctrl + X to cut it out.
@@ -125,8 +115,6 @@ With all the slowing down our base ambient track has gotten way too long. The av
 At this point it would be a good idea to save your work. Go to File > Save Project and save your work so far.
 
 **VI. Layering**
-
- [](#) Hide contents
 
 The trick to a good ambient is in layering a different audio tracks together. We have our base ambient ready, but lets go ahead and add another layer of audio on top of it.
 
@@ -162,8 +150,6 @@ You should instantly notice that the track we have modified from the rustling ga
 
 **VII. Adding Instruments**
 
- [](#) Hide contents
-
 By instruments I mean shorter samples that are used to give the ambient track structure. In general you want to avoid making an ambient track too rhytmic or melodic, as that will easily make it sound repeative. Yet we still need to break up the monotony of the final track somehow and give it depth.
 
 For the purpose of our haunted cemetary I picked a recording of [a power tool cutting metal](http://freesound.org/people/squashy555/sounds/252693/) that I found when looking for a violin sound - a good reminder on how a variety of everyday sounds can be modified into interesting ambient sound texture.
@@ -176,7 +162,7 @@ Let's go ahead and start modifying our power tool track into screams of the haun
 
 The stretched out track sounds more like shrieking mandrakes then the type of howl I had in mind, but let's go on ahead and cut a few good shrieks out from there.
 
-3\. Highlight and use Ctrl + X and Ctrl + V to place a total of three individual shrieks on their own track, and then close the remaining power tool track. [This is what the result should look like.](http://www.student.oulu.fi/~mkyyro/isolated_shrieks.jpg) [BROKEN LINK]
+3\. Highlight and use Ctrl + X and Ctrl + V to place a total of three individual shrieks on their own track, and then close the remaining power tool track. [This is what the result should look like.](http://www.student.oulu.fi/~mkyyro/isolated_shrieks.jpg) [*BROKEN LINK*]
 
 4\. Slow down the shrieks by individually applying Change Speed on all of them: highlight a single shriek and then change the speed by -30 to -50 percent.
 
@@ -194,8 +180,6 @@ The first thing you will hear is that the howling track is too loud, so go ahead
 
 **VIII. Adding Fade-ins and Fade-outs**
 
- [](#) Hide contents
-
 Fade-ins and Fade-outs can be used to smoothen samples that are played on top of the ambient tracks.
 
 1\. On the howl track, highlight half of a single howl from the left side and then use Effects > Fadein.
@@ -208,15 +192,13 @@ The howls should now mesh with the other audio much better, but let's keep on la
 
 **IX. Adding Instruments pt. 2**
 
- [](#) Hide contents
-
 While the howls break up the monotony of our track somewhat, the project still feels flat. It needs a bit of melody and high pitched samples to break to give it more structure. To fit our haunted cemetary theme, I picked a recording of [bells being rang](http://freesound.org/people/vumseplutten1709/sounds/216541/). Go ahead and drop that into your project in Audacity and mute the rest of the tracks as before.
 
 This recording has an amplifying bell sound, so it's not exactly suited for our to-be looping ambient. Let's cut a piece from it to use in our project instead.
 
 1\. Use Ctrl + X to cut out two consecutive bell strikes from the beginning of the track.
 
-2\. Copy that over to a new track three times and then close the remaining bell sound track. [The result should look somewhat like this picture.](http://www.student.oulu.fi/~mkyyro/isolated_bells.jpg)  [BROKEN LINK]
+2\. Copy that over to a new track three times and then close the remaining bell sound track. [The result should look somewhat like this picture.](http://www.student.oulu.fi/~mkyyro/isolated_bells.jpg) [*BROKEN LINK*]
 
 Try to place your bell strikes so that they fill empty gaps in the project. Remember that you have to keep adjusting the placement of the strikes as you apply different effects on them. You can use instruments to create different rythms, sequences and melodies into your ambient tracks.
 
@@ -239,11 +221,9 @@ To add even more layering to our ambient, let's create one more bell track from 
 
 6\. Adjust the hits on the slowed track so that they fit into the length of the base ambient
 
-[This is what your final project in Audacity should look like.](http://www.student.oulu.fi/~mkyyro/final_project.jpg) [BROKEN LINK] At this point your project is almost done, go ahead and save it in a safe place.
+[This is what your final project in Audacity should look like.](http://www.student.oulu.fi/~mkyyro/final_project.jpg) [*BROKEN LINK*] At this point your project is almost done, go ahead and save it in a safe place.
 
 **X. Mixing, Looping and Exporting**
-
- [](#) Hide contents
 
 Now it's time to finalize your project!
 
