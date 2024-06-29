@@ -17,11 +17,11 @@ This tutorial shows you my method for creating ambient sound without any previou
 
 These are type of ambient tracks that have been created with my methods:
 
-[Haunted Ground](http://www.student.oulu.fi/~mkyyro/Haunted_ground_loop.ogg)
+[Haunted Ground](http://www.student.oulu.fi/~mkyyro/Haunted_ground_loop.ogg) [BROKEN LINK]
 
-[Home Asleep](http://www.student.oulu.fi/~mkyyro/Home_asleep.ogg)
+[Home Asleep](http://www.student.oulu.fi/~mkyyro/Home_asleep.ogg) [BROKEN LINK]
 
-[Creaking](http://www.student.oulu.fi/~mkyyro/Creaking.ogg)
+[Creaking](http://www.student.oulu.fi/~mkyyro/Creaking.ogg) [BROKEN LINK]
 
 **What tools do you need?**
 
@@ -176,7 +176,7 @@ Let's go ahead and start modifying our power tool track into screams of the haun
 
 The stretched out track sounds more like shrieking mandrakes then the type of howl I had in mind, but let's go on ahead and cut a few good shrieks out from there.
 
-3\. Highlight and use Ctrl + X and Ctrl + V to place a total of three individual shrieks on their own track, and then close the remaining power tool track. [This is what the result should look like.](http://www.student.oulu.fi/~mkyyro/isolated_shrieks.jpg)
+3\. Highlight and use Ctrl + X and Ctrl + V to place a total of three individual shrieks on their own track, and then close the remaining power tool track. [This is what the result should look like.](http://www.student.oulu.fi/~mkyyro/isolated_shrieks.jpg) [BROKEN LINK]
 
 4\. Slow down the shrieks by individually applying Change Speed on all of them: highlight a single shriek and then change the speed by -30 to -50 percent.
 
@@ -216,7 +216,7 @@ This recording has an amplifying bell sound, so it's not exactly suited for our 
 
 1\. Use Ctrl + X to cut out two consecutive bell strikes from the beginning of the track.
 
-2\. Copy that over to a new track three times and then close the remaining bell sound track. [The result should look somewhat like this picture.](http://www.student.oulu.fi/~mkyyro/isolated_bells.jpg)
+2\. Copy that over to a new track three times and then close the remaining bell sound track. [The result should look somewhat like this picture.](http://www.student.oulu.fi/~mkyyro/isolated_bells.jpg)  [BROKEN LINK]
 
 Try to place your bell strikes so that they fill empty gaps in the project. Remember that you have to keep adjusting the placement of the strikes as you apply different effects on them. You can use instruments to create different rythms, sequences and melodies into your ambient tracks.
 
@@ -239,7 +239,7 @@ To add even more layering to our ambient, let's create one more bell track from 
 
 6\. Adjust the hits on the slowed track so that they fit into the length of the base ambient
 
-[This is what your final project in Audacity should look like.](http://www.student.oulu.fi/~mkyyro/final_project.jpg) At this point your project is almost done, go ahead and save it in a safe place.
+[This is what your final project in Audacity should look like.](http://www.student.oulu.fi/~mkyyro/final_project.jpg) [BROKEN LINK] At this point your project is almost done, go ahead and save it in a safe place.
 
 **X. Mixing, Looping and Exporting**
 
